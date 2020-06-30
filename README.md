@@ -67,6 +67,7 @@ It will output the results that can also be found in the reproducibility study.
 ### Data: KITTI 2015
 The KITTI 2015 stereo dataset is used to train and evaluate the models.
 The dataset can be downloaded here: http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo
+Put the data_scene_flow directory inside the Datasets directory. Also, from the training directory copy the disp_occ_0 directory to the testing directory.
 
 Source KITTI 2015:
 Moritz Menze and Andreas Geiger. 2015. Object Scene Flow for Autonomous Vehicles. Conference on Computer Vision and Pattern Recognition (CVPR).
