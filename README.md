@@ -35,7 +35,7 @@ Varying the number of 3D Convolutions,
 Pruning the network.
 These factors are adjusted and the performance and training times are compared.
 
-The study can be viewed in the following link: 
+The Blogpost of the study can be viewed in the following link: 
 
 ## Instructions
 
@@ -46,11 +46,12 @@ This project also makes use of MATLAB code for result analysis.
 ### Replicated codes
 The repository contains Jupyter Notebook files which are the replicated codes 
 with some extensions to locate the right directories, install required libraries, and to obtain useful information.
+Make sure the code refers to the appropriate directories.
 
 #### Execute code
 When downloaded to Google Drive, open the .ipynb files with Google Colab.
 Uncomment the 
-"os.chdir('/content/drive/My Drive/Making_GANet_More_Efficient_Group_30/GANet-master')"
+"os.chdir('/content/drive/My Drive/Making_GANet_More_Efficient_Group_30-master/GANet-master')"
 code in each code block and comment the: 
 "os.chdir('/content/drive/My Drive/Computer_Vision_edit/GANet-master')"
 or change it to the appropriate directory from which you will execute the code.
@@ -64,7 +65,7 @@ Use MATLAB to execute these codes.
 It will output the results that can also be found in the reproducibility study. 
 
 ### Data: KITTI 2015
-The KITTI 2015 stereo dataset is used to train and evalute the models.
+The KITTI 2015 stereo dataset is used to train and evaluate the models.
 The dataset can be downloaded here: http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo
 
 Source KITTI 2015:
