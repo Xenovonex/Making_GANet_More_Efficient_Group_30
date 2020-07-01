@@ -29,8 +29,9 @@ git clone https://github.com/feihuzhang/GANet.git
 ## Scope
 
 The replicated code is used to and adjusted to make it more efficient.
-Three factors are researched that affect the efficiency of the network:
+Four factors are researched that affect the efficiency of the network:
 Varying the input crop size, 
+Early stopping,
 Varying the number of 3D Convolutions, 
 Pruning the network.
 These factors are adjusted and the performance and training times are compared.
