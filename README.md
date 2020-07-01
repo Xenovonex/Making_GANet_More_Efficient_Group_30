@@ -60,9 +60,9 @@ Set the Runtime type to Python 3 and GPU and run the code.
 
 
 ### MATLAB codes
-The MATLAB codes are located inside the MATLAB_code directory.
-Use MATLAB to execute these codes. 
-It will output the results that can also be found in the reproducibility study. 
+The MATLAB codes are located inside the Blogpost/Images directory.
+Use MATLAB to execute this code.
+It will output the image results that can also be found in the reproducibility study. 
 
 ### Data: KITTI 2015
 The KITTI 2015 stereo dataset is used to train and evaluate the models.
