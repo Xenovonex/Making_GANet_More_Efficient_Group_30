@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\libs",
+    "\\libs\\GANet",
+    "\\libs\\GANet\\modules",
+    "\\lists",
+    "\\models"
+  ],
+  "SelectedNode": "\\lists\\kitti2015_test_shortest.list",
+  "PreviewInSolutionExplorer": false
+}

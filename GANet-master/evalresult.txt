@@ -1,0 +1,135 @@
+===> Total 199 Frames ==> AVG EPE Error: 78.3763, AVG Error Rate: 0.9980, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x48_BS16/kitti2015_b16_Ep60_epoch_30.pth
+===> Total 199 Frames ==> AVG EPE Error: 5.2622, AVG Error Rate: 0.2984, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x48_BS16/kitti2015_b16_totEp640_45plus_epoch_70.pth
+
+===> Total 199 Frames ==> AVG EPE Error: 1.9648, AVG Error Rate: 0.0874, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x48_BS16/kitti2015_b16_totEp640_45plus_epoch_320.pth
+
+===> Total 199 Frames ==> AVG EPE Error: 1.7982, AVG Error Rate: 0.0999, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x48_BS16/kitti2015_b16_totEp640_45plus_epoch_230.pth
+
+===> Total 199 Frames ==> AVG EPE Error: 2.3587, AVG Error Rate: 0.0703, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x48_BS16/kitti2015_b16_totEp640.pth
+
+===> Total 199 Frames ==> AVG EPE Error: 2.4527, AVG Error Rate: 0.1458, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x48_BS16/kitti2015_b16_totEp640_45plus_epoch_130.pth
+
+===> Total 199 Frames ==> AVG EPE Error: 1.9416, AVG Error Rate: 0.0711, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x48_BS16/kitti2015_b16_totEp640_45plus_epoch_430.pth
+
+===> Total 199 Frames ==> AVG EPE Error: 2.1528, AVG Error Rate: 0.0698, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x48_BS16/kitti2015_b16_totEp640_45plus_epoch_530.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 56.8549, AVG Error Rate: 0.9556, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_1.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.8044, AVG Error Rate: 0.0824, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_100.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 3.1589, AVG Error Rate: 0.0847, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_200.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 3.1986, AVG Error Rate: 0.0699, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_300.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.5398, AVG Error Rate: 0.0568, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_400.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 2.1762, AVG Error Rate: 0.0527, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_500.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 2.1079, AVG Error Rate: 0.0531, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_600.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 3.1881, AVG Error Rate: 0.0624, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_650.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 3.1881, AVG Error Rate: 0.0624, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_650.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.5398, AVG Error Rate: 0.0568, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_400.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 2.1762, AVG Error Rate: 0.0527, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_500.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 3.1881, AVG Error Rate: 0.0624, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16/kitti2015_48x144_b16_epoch_650.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 0.3497, AVG Error Rate: 0.0051, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint/kitti2015_final.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 0.3497, AVG Error Rate: 0.0051, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint/kitti2015_final.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 52.9857, AVG Error Rate: 0.9557, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_1.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 6.9094, AVG Error Rate: 0.1426, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_100.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 3.0730, AVG Error Rate: 0.0879, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_200.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 2.4881, AVG Error Rate: 0.0665, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_300.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 2.2460, AVG Error Rate: 0.0591, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_400.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 8.9656, AVG Error Rate: 0.1069, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_500.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 19.6711, AVG Error Rate: 0.1904, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_600.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 20.6948, AVG Error Rate: 0.1895, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_640.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 7.8519, AVG Error Rate: 0.0971, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v2_epoch_500.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 22.4190, AVG Error Rate: 0.2117, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v2_epoch_600.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 79.7212, AVG Error Rate: 0.9984, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v2_epoch_640.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 61.7856, AVG Error Rate: 0.9748, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_1.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.8058, AVG Error Rate: 0.0886, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_100.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 2.1392, AVG Error Rate: 0.0729, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_200.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.6278, AVG Error Rate: 0.0692, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_300.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.6485, AVG Error Rate: 0.0670, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_400.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.2000, AVG Error Rate: 0.0475, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_500.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.2251, AVG Error Rate: 0.0462, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_600.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.1334, AVG Error Rate: 0.0468, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_640.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.1334, AVG Error Rate: 0.0468, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_epoch_640.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.0749, AVG Error Rate: 0.0487, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v2_epoch_640.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.1127, AVG Error Rate: 0.0509, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v2_epoch_600.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.2734, AVG Error Rate: 0.0549, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v2_epoch_500.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 6.7440, AVG Error Rate: 0.1901, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v2_epoch_400.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.2335, AVG Error Rate: 0.0587, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v2_epoch_300.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.4040, AVG Error Rate: 0.0692, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v2_epoch_200.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.5120, AVG Error Rate: 0.0801, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v2_epoch_100.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 61.2193, AVG Error Rate: 0.9814, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v2_epoch_1.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.0688, AVG Error Rate: 0.0454, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v3_epoch_640.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.0444, AVG Error Rate: 0.0463, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v3_epoch_600.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.0987, AVG Error Rate: 0.0489, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v3_epoch_500.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.1309, AVG Error Rate: 0.0507, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v3_epoch_400.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.3905, AVG Error Rate: 0.0615, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v3_epoch_300.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.5648, AVG Error Rate: 0.0771, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v3_epoch_200.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 2.1952, AVG Error Rate: 0.0889, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v3_epoch_100.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 56.5010, AVG Error Rate: 0.9745, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v3_epoch_1.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 49.5492, AVG Error Rate: 0.9496, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D22/kitti2015_48x144_BS16_3D22_v3_epoch_1.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 2.5926, AVG Error Rate: 0.0870, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D22/kitti2015_48x144_BS16_3D22_v3_epoch_100.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.5898, AVG Error Rate: 0.0752, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D22/kitti2015_48x144_BS16_3D22_v3_epoch_200.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.4688, AVG Error Rate: 0.0636, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D22/kitti2015_48x144_BS16_3D22_v3_epoch_300.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 4.4530, AVG Error Rate: 0.0760, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D22/kitti2015_48x144_BS16_3D22_v3_epoch_400.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 3.8415, AVG Error Rate: 0.0666, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D22/kitti2015_48x144_BS16_3D22_v3_epoch_500.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 6.2392, AVG Error Rate: 0.0821, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D22/kitti2015_48x144_BS16_3D22_v3_epoch_600.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 69.0316, AVG Error Rate: 0.9984, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D22/kitti2015_48x144_BS16_3D22_v3_epoch_640.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.0444, AVG Error Rate: 0.0463, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D26/kitti2015_48x144_BS16_3D26_v3_epoch_600.pth
+
+===> Total 40 Frames ==> AVG EPE Error: 1.4688, AVG Error Rate: 0.0636, img_size: 1248x384  /content/drive/My Drive/Computer_Vision_edit/checkpoint_48x144_BS16_3D22/kitti2015_48x144_BS16_3D22_v3_epoch_300.pth
+
