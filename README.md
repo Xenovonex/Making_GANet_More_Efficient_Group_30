@@ -76,3 +76,4 @@ Moritz Menze and Andreas Geiger. 2015. Object Scene Flow for Autonomous Vehicles
 ### Additional 
 The "models" and "utils" directories contain replicated code models and utilities from Zhang, 2019
 that is used by the networks.
+The "checkpoints" directory contains checkpoints that gave good results in our experiments
