@@ -106,15 +106,6 @@ The results of the deep model are better than those reported in the paper.
 ## Great Generalization Abilities:
 GANet has great generalization abilities on other datasets/scenes.
 
-#### Cityscape
-<img src="illustration/cityscape_029736.png" width="800" /> <img src="illustration/cityscape_disp.png" width="800" />
-
-#### Middlebury
-
-<img src="illustration/Crusade.png" width="400" /> <img src="illustration/Crusade_disp.png" width="400" />
-<img src="illustration/Bicycle2.png" width="400" /> <img src="illustration/Bicycle2_disp.png" width="400"/>
-
-
 ## Reference:
 
 If you find the code useful, please cite our paper:
