@@ -36,7 +36,7 @@ Varying the number of 3D Convolutions,
 Pruning the network.
 These factors are adjusted and the performance and training times are compared.
 
-The Blogpost of the study can be viewed in the following link: 
+The Blogpost of the study can be viewed in the following link: https://medium.com/making-ganet-more-efficient/making-ga-net-more-efficient-868d0336b24a?sk=64ed2017358358ce84eee79f50aeb73a 
 
 ## Instructions
 
